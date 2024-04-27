@@ -61,7 +61,7 @@ const ProjectsSection = () => {
   Come for the Memes, Stay for the Mission!
   So, are you ready to trade, meme, and make a difference? Join the 9Lives community today and be a part of something bigger than just another crypto project. Let’s make a pawsitive impact together!
 
-  "9Lives: Not just a token investment, but a token of compassion."
+  9Lives is Not just a token investment, but a token of compassion.
 </h1>
 
       
