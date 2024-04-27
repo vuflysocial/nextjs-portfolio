@@ -37,18 +37,18 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Welcome to 9 Lives- where evere Sol counts!
+            Welcome to 9 Lives - Where Every Sol Counts!
           </p>
           <div>
           <Link
-  href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=6gfob57g249n7SEKiJY9MNg5YipYezRQK1RzGcd7jJih&fixed=in"
+  href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=3EyXMFoZvdag1evXsoHU5BtxcxjaF7vnJvd3SxSNkqm8&fixed=in"
   className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-400 to-blue-600 hover:bg-slate-200 text-white"
 >
   buy
 </Link>
 
 <Link
-  href="https://www.dextools.io/app/en/solana/pair-explorer/5T8R4cphpfsnYgwqLTFg6MGFvWUagxHtRRyPDzATNYDQ"
+  href="https://www.dextools.io/app/en/solana/pair-explorer/ASThX5XiNkwyxa6Hm2UuzwioYvs21i9SvfsSMEDoQ2Xy"
   className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-transparent border border-blue-300 hover:bg-slate-800 text-white mt-3"
 >
   <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
